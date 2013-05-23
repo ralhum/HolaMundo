@@ -1,4 +1,7 @@
 Demo de Sincronizacion
 Esta linea sera sincronizada bajo la rama proceso.
+
+Esta es una modificaion intermedia por proceso
+
 Estas es una nueva linea creada con la rama proceso.
 Una nueva linea de la rama proceso
